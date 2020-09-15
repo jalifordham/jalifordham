@@ -1,0 +1,72 @@
+html {
+    background-color: #FBD87F;
+ font-family: 'Fascinate Inline', cursive;
+border-style: solid;
+border-top-color: #BBE6E4;
+border-left-color: #ecc406;
+border-right-color: #ecc406;
+border-bottom-color: #BBE6E4;
+}
+
+h1 {
+  color: #ecc406;
+  text-align: center;
+font-family:'Rye', cursive;
+  font-size: 70px;
+  margin: 0;
+}
+
+h2
+
+{
+    color: #BBE6E4;
+  text-align: center;
+font-family:'Rye', cursive;
+  font-size: 50px;
+}
+
+
+div.gallery {
+  margin: 10px;
+  width: 500px;
+  font-family: 'Rye', cursive;
+;
+  border-style: solid;
+  border-color: #BBE6E4;
+  color: #575A5E;
+}
+
+
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.type {
+
+overflow: hidden; /* Ensures the content is not revealed until the animation */
+border-right: .1em  /* The typwriter cursor */
+white-space: wrap; /* Keeps the content on a single line */
+margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+letter-spacing: .1em; /* Adjust as needed */
+animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
