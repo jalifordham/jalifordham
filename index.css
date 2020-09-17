@@ -1,5 +1,5 @@
 body {
-    background-color: #E07A5F;
+    background-image: url(bkg.png); 
     font-family: 'Fredericka the Great', cursive;
     font-size: 20px;
     padding: 20px;
@@ -9,18 +9,18 @@ body {
 }
 
 h1 {
-    color: #81B29A;
+    color: #51A3A3;
     font-family: 'Pacifico', cursive;
 }
 
 
 h2 {
     
-    color: #F2CC8F;
+    color: #75485E;
 }
 a:visited {
     
-    color: #F2CC8F;
+    color: #75485E;
 }
 
 
