@@ -2,7 +2,10 @@ body {
     background-color: #E07A5F;
     font-family: 'Fredericka the Great', cursive;
     font-size: 20px;
-    padding: inherit;
+    padding: 20px;
+    border-style: solid;
+    border-color: #3D405B;
+    
 }
 
 h1 {
@@ -11,6 +14,10 @@ h1 {
 }
 
 
+h2 {
+    
+    color: #F2CC8F;
+}
 a:visited {
     
     color: #F2CC8F;
