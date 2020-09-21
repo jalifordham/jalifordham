@@ -1,6 +1,6 @@
 body {
-    background-image: url(bkg.png); 
-    font-family: 'Fredericka the Great', cursive;
+    background-image: url("bkg.png"); 
+     font-family: 'Bungee Outline', cursive;
     font-size: 20px;
     padding: 20px;
     border-style: solid;
@@ -10,7 +10,7 @@ body {
 
 h1 {
     color: #51A3A3;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Bungee Outline', cursive;
 }
 
 

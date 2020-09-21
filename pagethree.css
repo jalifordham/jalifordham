@@ -1,0 +1,40 @@
+body {
+text-align: center;
+background-color: #F4FDD9;
+font-family: 'Josefin Slab', serif;
+    border: solid;
+    border-color: #BAB700;
+
+}
+
+img {
+border: 1px solid #ddd;
+  border-radius: 50%;
+    width: 400px;
+    height: 400px;
+ 
+  
+ 
+}
+
+a:hover {
+    
+    color: #646536;
+}
+
+a:visited {
+    
+    color: #EF6351;
+}
+
+h1 {
+    
+    text-align: left;
+    font-size: 40px;
+}
+
+h2 {
+    
+    text-align: right;
+    font-size: 40px;
+}
