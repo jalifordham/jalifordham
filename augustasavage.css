@@ -5,6 +5,11 @@ body {
 }
 
 
+.augusta {
+    color:#D97F24;
+    
+}
+
 h1 {
     
   writing-mode: vertical-rl;
@@ -14,6 +19,8 @@ h1 {
   
  
 }
+
+
 
 a:link {
   color: #8E4683;
@@ -31,10 +38,7 @@ color: #D97F24;
     
 }
 
-.augusta {
-    color:#D97F24;
-    
-}
+
 h2{
     text-justify: auto;
     text-align: left;

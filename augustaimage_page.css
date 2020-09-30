@@ -13,7 +13,12 @@ h1 {
   color:#515FAD;
     
 }
+.augusta {
+    color:#D97F24;
+    
+}
   
+
 a:link {
   color: #8E4683;
     
@@ -30,11 +35,7 @@ color: #D97F24;
     
 }
     
-}
-.augusta {
-    color:#D97F24;
-    
-}
+
 h2{
     text-justify: auto;
     text-align: left;
