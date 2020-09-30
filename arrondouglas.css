@@ -19,11 +19,19 @@ h1 {
     
 }
 
+a:link {
+  color: #8E4683;
+    
+}
 
+a:visited {
+    
+ color:#8E4683;   
+}
 
 a:hover {
   
-color: #8E4683;
+color: #D97F24;
     
 }
 h2{

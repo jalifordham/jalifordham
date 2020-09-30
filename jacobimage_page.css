@@ -9,6 +9,22 @@ body {
     
 }
 
+a:link {
+  color: #8E4683;
+    
+}
+
+a:visited {
+    
+ color:#8E4683;   
+}
+
+a:hover {
+  
+color: #D97F24;
+    
+}
+
 h1 {
     
   writing-mode: vertical-rl;
