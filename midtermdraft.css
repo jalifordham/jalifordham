@@ -36,13 +36,15 @@ font-size: 20px;
 
 }
 
-
-.links {
-        font-size: 15px;
-      display: flex;
-  justify-content: center;
-  align-items: center;
-   color: #5379a5;
+.flex-container {
+  display:flex;  
+}
+.flex-container div{
+  position: relative;
+  margin: auto;
+  text-align: center;
+  line-height: 20px;
+  font-size: 20px;
   font-family: 'Monoton', cursive;
 }
 
