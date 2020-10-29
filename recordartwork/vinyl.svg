@@ -1,48 +1,32 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<circle style="fill:#242424;" cx="256" cy="256" r="256"/>
-<path style="fill:#0F161A;" d="M256,505.6C118.368,505.6,6.4,393.632,6.4,256S118.368,6.4,256,6.4S505.6,118.368,505.6,256
-	S393.632,505.6,256,505.6z"/>
-<g style="opacity:0.2;">
-	<path style="fill:#588199;" d="M79.588,79.584C34.396,124.788,6.4,187.184,6.4,256s27.996,131.212,73.188,176.416L256,256
-		L79.588,79.584z"/>
-	<path style="fill:#588199;" d="M505.6,256c0-68.812-27.992-131.212-73.188-176.416L256,256l176.416,176.416
-		C477.608,387.212,505.6,324.812,505.6,256z"/>
+<style type="text/css">
+	.st0{fill:#242424;}
+	.st1{fill:#0F161A;}
+	.st2{opacity:0.2;}
+	.st3{fill:#588199;}
+	.st4{fill:#66401E;}
+	.st5{fill:#FFEACC;}
+	.st6{fill:none;}
+	.st7{fill:#07FF00;}
+	.st8{fill:#ED18C5;}
+</style>
+<circle class="st0" cx="256" cy="256" r="256"/>
+<path class="st1" d="M256,505.6C118.4,505.6,6.4,393.6,6.4,256S118.4,6.4,256,6.4s249.6,112,249.6,249.6S393.6,505.6,256,505.6z"/>
+<g class="st2">
+	<path class="st3" d="M79.6,79.6C34.4,124.8,6.4,187.2,6.4,256s28,131.2,73.2,176.4L256,256L79.6,79.6z"/>
+	<path class="st3" d="M505.6,256c0-68.8-28-131.2-73.2-176.4L256,256l176.4,176.4C477.6,387.2,505.6,324.8,505.6,256z"/>
 </g>
-<path style="fill:#66401E;" d="M256,352c-52.936,0-96-43.064-96-96s43.064-96,96-96s96,43.064,96,96S308.936,352,256,352z"/>
-<path style="fill:#FFEACC;" d="M256,339.2c-45.88,0-83.2-37.324-83.2-83.2s37.32-83.2,83.2-83.2c45.884,0,83.2,37.324,83.2,83.2
-	S301.884,339.2,256,339.2z"/>
-<circle style="fill:#242424;" cx="256" cy="256" r="6.4"/>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<path class="st4" d="M323.9,323.9c-37.4,37.4-98.3,37.4-135.8,0s-37.4-98.3,0-135.8s98.3-37.4,135.8,0S361.3,286.5,323.9,323.9z"/>
+<path class="st5" d="M312.1,317.4c-33.9,31-86.6,28.6-117.5-5.3s-28.6-86.6,5.3-117.5c33.9-31,86.6-28.6,117.5,5.3
+	S346,286.4,312.1,317.4z"/>
+<path id="SVGID_x5F_1_x5F_" class="st6" d="M176.8,230.6c14.1-43.7,60.9-67.8,104.7-53.8c43.7,14.1,67.8,60.9,53.8,104.7
+	s-60.9,67.8-104.7,53.8S162.7,274.3,176.8,230.6z"/>
+<text><textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="2.3685%">
+<tspan  class="st8" style="font-family:'Ayuthaya'; font-size:22px;">Press to Listen</tspan></textPath>
+</text>
+<path class="st7" d="M-2-61"/>
+<polyline class="st8" points="233,225.8 291,261.7 233,283 "/>
 </svg>
