@@ -1,0 +1,60 @@
+
+body {
+border: 13px groove rgba(222,213,225,0.51);
+outline-offset: 14px;
+height: 100%;
+font-family: 'Limelight', cursive;
+
+
+background-color: #F5EE9E;
+
+}
+
+h1 {   
+text-align: center;
+color: #e3dba7;
+font-size: 11vh;
+}
+
+.travelblog {
+    
+    padding-top: 100px;
+    color: #D8DCFF;
+    
+}
+
+h2 {
+  text-align: center;
+color: black;
+padding: 10px;
+    margin: 40px;
+    
+}
+
+.next, .previous {
+    text-align: center;
+    font-size: 5vh;
+    padding: 0px;
+    
+}
+
+a {
+    color: #D8DCFF;
+    text-decoration: none;
+    
+}
+
+img {
+    
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: dotted;
+    border-color: #eb8e2d;    
+
+}
+
+.img1, .img2, .img3 {
+    padding: 10px;
+}
